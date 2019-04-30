@@ -1,0 +1,16 @@
+.logo{
+    width:150px;
+}
+.container{
+    height:70px;
+}
+li a{
+    top:50px;
+    border:1px solid;
+    background-color:#A0B398;
+    color:#335C80
+}
+.nav-pills>li.active>a{
+    background-color:#335C80;
+    color:#E4C79F;
+}
